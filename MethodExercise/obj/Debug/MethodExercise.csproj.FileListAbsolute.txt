@@ -1,0 +1,6 @@
+C:\Users\alexr\Desktop\Repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\alexr\Desktop\Repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Desktop\Repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.exe
+C:\Users\alexr\Desktop\Repos\MethodExercise\MethodExercise\bin\Debug\MethodExercise.pdb
+C:\Users\alexr\Desktop\Repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.exe
+C:\Users\alexr\Desktop\Repos\MethodExercise\MethodExercise\obj\Debug\MethodExercise.pdb
